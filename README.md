@@ -1,10 +1,16 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# CovidTracker is am Implementation In reactJs Using https://covid19.mathdro.id/api API
+- ![](images/Screenshot_01.png)
+- ![](images/Screenshot_01.png)
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### Install Neccessary Library
+
+- Create React Project Using `npx create-react-app covid19-tracker`
+- `npm install --save axios react-chartjs-2 react-countup classnames @material-ui/core`
+- `npm install --save react-chartjs-2 chart.js`
 
 ### `npm start`
 

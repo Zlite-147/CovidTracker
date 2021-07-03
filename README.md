@@ -1,6 +1,6 @@
 # CovidTracker is am Implementation In reactJs Using https://covid19.mathdro.id/api API
-- ![](images/Screenshot_01.png)
-- ![](images/Screenshot_01.png)
+- ![](src/images/Screenshot_01.png)
+- ![](src/images/Screenshot_01.png)
 
 ## Available Scripts
 
